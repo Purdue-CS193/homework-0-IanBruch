@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+# CLICK THIS URL!!!
+
+[url to a cool place](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -15,16 +19,30 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Is there
+
+## A difference between
+
+### These Three?
+
 - Bulleted
 - List
 
 1. Numbered
 2. List
 
+> quote of something cool
+
+`Other code written like this`
+
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Click the url ;)
+
+![Image](src)
 ```
+Outside of the markdown area has different text
+### Outside it looks like there is a difference with the headers
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
